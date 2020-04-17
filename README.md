@@ -1,2 +1,3 @@
 # the-list   
-Akshit Srivastava   
+Akshit Srivastava         
+Latika Patel
